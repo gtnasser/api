@@ -1,0 +1,5 @@
+{
+  "result": "1",
+  "mensagem": "retorno do metodo RequestLogin",
+  "responseData": "{\"key1\":\"value1\"}"
+}
